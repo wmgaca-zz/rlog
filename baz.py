@@ -1,0 +1,4 @@
+
+class Bazooka(object):
+
+    pass
